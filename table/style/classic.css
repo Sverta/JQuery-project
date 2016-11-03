@@ -1,0 +1,14 @@
+.classic .tbl{
+    background-color: cornsilk;
+    border: 2px solid #000;
+}
+.classic .tbl > tbody >  tr > td{
+    border: 1px solid #000;
+    padding: 15px 55px;
+}
+.classic .tbl_input{
+    display: none;
+}
+a{
+    text-decoration: none;
+}
